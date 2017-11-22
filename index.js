@@ -1,1 +1,1 @@
-
+var list=['zhangsan','lisi'];
